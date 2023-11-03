@@ -1,4 +1,4 @@
-FROM quay.io/toolbx/ubuntu-toolbox:22.04 as portable-zoom
+FROM docker.io/library/ubuntu:20.04 as portable-zoom
 
 LABEL com.github.containers.toolbox="true" \
       usage="This image is meant to be used with the toolbox or distrobox command" \

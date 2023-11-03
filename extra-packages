@@ -16,3 +16,5 @@ libsm6
 pulseaudio
 libxslt1.1
 libxcb-xtest0-dev
+curl
+ca-certificates
